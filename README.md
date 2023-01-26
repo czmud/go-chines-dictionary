@@ -1,0 +1,1 @@
+Go Server for simple chinese character reference dictionary
