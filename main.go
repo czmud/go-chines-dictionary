@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/czmud/go-chinese-dictionary/controllers"
-	"github.com/czmud/go-chinese-dictionary/initializers"
+	"github.com/czmud/go-chinese-dictionary/src/controllers"
+	"github.com/czmud/go-chinese-dictionary/src/initializers"
 	"github.com/gin-gonic/gin"
 )
 
