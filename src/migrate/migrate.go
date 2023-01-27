@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/czmud/go-chinese-dictionary/initializers"
-	"github.com/czmud/go-chinese-dictionary/models"
+	"github.com/czmud/go-chinese-dictionary/src/initializers"
+	"github.com/czmud/go-chinese-dictionary/src/models"
 )
 
 func init() {

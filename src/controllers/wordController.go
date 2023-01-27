@@ -3,8 +3,8 @@ package controllers
 import (
 	"fmt"
 
-	"github.com/czmud/go-chinese-dictionary/initializers"
-	"github.com/czmud/go-chinese-dictionary/models"
+	"github.com/czmud/go-chinese-dictionary/src/initializers"
+	"github.com/czmud/go-chinese-dictionary/src/models"
 	"github.com/gin-gonic/gin"
 )
 
